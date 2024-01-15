@@ -1,4 +1,4 @@
-#include <iostream>
+/* #include <iostream>
 using namespace std;
 void findMissing(int *a ,int n){
     // aaproach1 visited method
@@ -29,9 +29,9 @@ void findMissing(int *a ,int n){
         }
     }
     TC -> O(N)  SC-> O(1)
-    */
-}
-
+    
+}  */
+/*
 int main(){
     int n;
     int a[]={3,3,3,3,3} ;
@@ -39,4 +39,4 @@ int main(){
     findMissing(a,n);
     return 0;
 
-}
+} */
